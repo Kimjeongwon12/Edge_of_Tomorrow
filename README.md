@@ -1,5 +1,7 @@
 # Edge of Tomorrow
 
+![Image](https://github.com/user-attachments/assets/558666a7-24e9-4c78-ade5-8a2ff03c0927)
+
 ## 📖 프로젝트 소개
 Memory Loop RPG는 영화 Edge of Tomorrow에서 영감을 받아 제작한 텍스트 기반 루프 생존 게임입니다.
 플레이어는 전장에서 반복적으로 죽음을 경험하면서 기억을 축적하고, 점차 더 멀리 전진해
