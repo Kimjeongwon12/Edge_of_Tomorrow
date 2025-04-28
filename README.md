@@ -15,8 +15,6 @@ Memory Loop RPG는 영화 Edge of Tomorrow에서 영감을 받아 제작한 텍�
 |AI 생존/사망 판정 | Ollama의 EEVE-Korean-10.8B 모델로 생존/사망 여부 판단|
 |루프 시스템 | 사망 시 기억을 유지한 채 루프 재시작|
 |보스전 시스템 | 최종 단계에서 오메가와 결전|
-|행동 결과 Fade-out | 입력 결과가 1초간 표시 후 자연스럽게 사라짐|
-|입력창 자동 초기화 | 입력 후 다음 장면 넘어갈 때 자동으로 입력창 비움|
 
 ## 🛠 기술 스택
 |구분 | 기술
@@ -24,7 +22,6 @@ Memory Loop RPG는 영화 Edge of Tomorrow에서 영감을 받아 제작한 텍�
 |언어 | Python|
 |LLM API | Ollama (EEVE-Korean-10.8B)|
 |UI 프레임워크 | Gradio (Blocks)|
-|스타일링 | Custom CSS (Fade-out animation)|
 
 ## 🎬 게임 플레이 흐름
 전장의 상황이 출력됩니다.
