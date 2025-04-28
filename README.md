@@ -21,7 +21,8 @@ Memory Loop RPG는 영화 Edge of Tomorrow에서 영감을 받아 제작한 텍�
 |---|---|
 |언어 | Python|
 |LLM API | Ollama (EEVE-Korean-10.8B)|
-|UI 프레임워크 | Gradio (Blocks)|
+|UI 프레임워크 | Gradio |
+|개발 환경| Jupyter Notebook|
 
 ## 🎬 게임 플레이 흐름
 전장의 상황이 출력됩니다.
@@ -45,6 +46,8 @@ EEVE 모델이 생존 또는 사망 여부를 판정합니다.
 
 ## 🛤 향후 개선 방향 (Roadmap)
 🔥 루프 수 카운트 및 플레이 요약 기능
+
+🔥 다양한 전장의 상황 생성
 
 🔥 메모리(기억) 로그를 플레이어에게 보여주는 시스템
 
